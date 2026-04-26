@@ -1,0 +1,15 @@
+{
+	"name": "babaspadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c8c9784-3b61-4208-8077-b729c7c44661",
+		"tenantId": "45b1e1ea-ef99-443a-a7d9-f9fdca1e2010"
+	}
+}
